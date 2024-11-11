@@ -1,0 +1,15 @@
+#codeHistoryContainer {
+    padding: 10px;
+}
+
+.history-item {
+    padding: 8px;
+    margin: 4px 0;
+    background-color: #f3f4f6;
+    border-radius: 5px;
+}
+
+.history-item:hover {
+    background-color: #e5e7eb;
+}
+
